@@ -1,5 +1,5 @@
 Configure AWS CLI  
-[How to use User data](./userdata)  
+[How to use User data](./userdata.md)  
 AWS Udemy Courses  
 AWS Skill Builder  
 AWS Workshop  
