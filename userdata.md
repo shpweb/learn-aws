@@ -16,7 +16,7 @@ systemctl start httpd
 systemctl enable httpd
 echo “Hello World from Hardik” > /var/www/html/index.html
 ```
-### 3. AWS CLI for launching ec2 instance with userdata: 
+### 3. AWS CLI for launching ec2 instance with userdata: [^1]
 ```sh
 aws ec2 run-instances --image-id ami-076e3a557efe1aa9c --count 1 --instance-type t2.micro \
 --key-name webaayu-linux-mumbai --subnet-id subnet-0c09de0366afeb08f --security-group-ids sg-09f17fec51fb75381 \
