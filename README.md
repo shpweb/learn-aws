@@ -9,7 +9,7 @@ AWS Workshop
 2. vpc 
 3. IAM
 4. S3
-5. AWS CLI 
+5. [AWS CLI for launching ec2 instance with user data](./userdata.md) 
 6. AWS EKS (if time permits)
 
 ## Hands-on
